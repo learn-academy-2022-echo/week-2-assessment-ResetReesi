@@ -1,7 +1,7 @@
 // ASSESSMENT 2: Coding Practical Questions with Jest
 
-const { workerData } = require("worker_threads")
-const { string } = require("yargs")
+// const { workerData } = require("worker_threads")
+// const { string } = require("yargs")
 
 // const { equal } = require("assert")
 // const { array, number, string } = require("yargs")
